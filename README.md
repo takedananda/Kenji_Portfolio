@@ -8,7 +8,7 @@ Rather than using a prexisting dataset, I collected the data myself by web scrap
 
 After the data was been cleaned, I performed exploratory data analysis on Tableau to figure out which types of information explain apartment pricing. Finally, I constructed a dashboard to condense relevant information into one visualization. The dashboard can be found here: https://public.tableau.com/profile/kenji.takeda#!/vizhome/TokyoApartments/TokyoApartmentDataDashboard
 
-![](https://github.com/takedananda/Kenji_Portfolio/blob/main/images/monthly_rent.png)
+![](/images/monthly_rent.png)
 
 
 # [Project 2: Loan Prediction Project](https://github.com/takedananda/Loan-Prediction)
@@ -29,7 +29,7 @@ The highlight of this project is the latter parts, in which I treated the proble
 
 For more information about the data, please refer to the AnalyticsVidhya site: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
 
-![](https://github.com/takedananda/Kenji_Portfolio/blob/main/images/Loan%20prediction.png)
+![](/images/Loan%20prediction.png)
 
 
 # [Project 3: Time Series Analysis](https://github.com/takedananda/Time-Series---VTSAX)
@@ -44,7 +44,7 @@ As a bonus learning exercise, I constructed a LSTM model to compare the classica
 
 As a disclaimer, please do not modify your investment strategies according to the models created through this project. The dataset's feature space does not have the explanatory power required for reliable prediction the target variable. Profitable forecasting of stock prices is not possible with limited data. 
 
-![](https://github.com/takedananda/Kenji_Portfolio/blob/main/images/Time%20series.png)
+![](/images/Time%20series.png)
 
 
 # [Project 4: Mushroom Classification](https://github.com/takedananda/Mushroom-Classification)
