@@ -8,7 +8,7 @@ Rather than using a prexisting dataset, I collected the data myself by web scrap
 
 After the data was been cleaned, I performed exploratory data analysis on Tableau to figure out which types of information explain apartment pricing. Finally, I constructed a dashboard to condense relevant information into one visualization. The dashboard can be found here: https://public.tableau.com/profile/kenji.takeda#!/vizhome/TokyoApartments/TokyoApartmentDataDashboard
 
-[](https://github.com/takedananda/Kenji_Portfolio/blob/main/images/monthly_rent.png)
+![](https://github.com/takedananda/Kenji_Portfolio/blob/main/images/monthly_rent.png)
 
 
 # [Proect 2: Loan Prediction Project](https://github.com/takedananda/Loan-Prediction)
