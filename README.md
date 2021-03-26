@@ -1,6 +1,6 @@
 # Kenji_Portfolio
 
-# [Project 1: Tokyo Apartments Analysis] (https://github.com/takedananda/Tokyo-Apartments)
+# [Project 1: Tokyo Apartments Analysis](https://github.com/takedananda/Tokyo-Apartments)
 
 The aim of this project was to analyze the pricing of apartments in Tokyo. The reason why I chose to do a project on this is because my parents are living in Tokyo, and the insights I gain through this project will be useful for me in case I ever need to find an apartment to rent to go take care of them.
 
