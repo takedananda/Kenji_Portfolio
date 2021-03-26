@@ -29,7 +29,7 @@ The highlight of this project is the latter parts, in which I treated the proble
 
 For more information about the data, please refer to the AnalyticsVidhya site: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
 
-![](/images/Loan%20prediction.png)
+![](/images/loan_prediction.png)
 
 
 # [Project 3: Time Series Analysis](https://github.com/takedananda/Time-Series---VTSAX)
@@ -44,7 +44,7 @@ As a bonus learning exercise, I constructed a LSTM model to compare the classica
 
 As a disclaimer, please do not modify your investment strategies according to the models created through this project. The dataset's feature space does not have the explanatory power required for reliable prediction the target variable. Profitable forecasting of stock prices is not possible with limited data. 
 
-![](/images/Time%20series.png)
+![](/images/Time_series.png)
 
 
 # [Project 4: Mushroom Classification](https://github.com/takedananda/Mushroom-Classification)
